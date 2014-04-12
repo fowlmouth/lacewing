@@ -1,0 +1,6 @@
+[Package]
+name = "lacewing"
+version = "0.5.4"
+author = "fowl"
+description = "Wrapper for Lacewing networking library"
+license = "MIT"
